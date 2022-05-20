@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\detos\source\repos\Proiect_Deto\Proiect_Deto\main.cpp(121,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\detos\source\repos\Proiect_Deto\Proiect_Deto\main.cpp(122,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\detos\source\repos\Proiect_Deto\Proiect_Deto\main.cpp(126,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\detos\source\repos\Proiect_Deto\Proiect_Deto\main.cpp(127,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\detos\source\repos\Proiect_Deto\Proiect_Deto\main.cpp(128,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\detos\source\repos\Proiect_Deto\Proiect_Deto\main.cpp(129,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Proiect_Deto.vcxproj -> C:\Users\detos\source\repos\Proiect_Deto\x64\Debug\Proiect_Deto.exe
