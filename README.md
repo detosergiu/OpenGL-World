@@ -1,2 +1,2 @@
 # OpenGL-World
-Open World created with OpenGL
+To Run  Proiect_Deto.exe 
